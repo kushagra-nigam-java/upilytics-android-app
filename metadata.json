@@ -1,0 +1,6 @@
+{
+  "name": "UPIlytics",
+  "description": "High-fidelity local transaction detection, AI-powered keyword categorization, budgets, visual graphs, and rule-based insights for personal finance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
